@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Paul L. E. Grieco</title>
+    <link>https://paulgrieco.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on Paul L. E. Grieco</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Paul L. E. Grieco </copyright>
+    <lastBuildDate>Mon, 01 Jun 2015 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://paulgrieco.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multiplicity of Equilibria and Information Structures in Empirical Games: Challenges and Prospects</title>
+      <link>https://paulgrieco.github.io/publication/choice-conf/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://paulgrieco.github.io/publication/choice-conf/</guid>
+      <description>Note: This paper was collaboratively written as part of the a workshop at the 9th Invitational Choice Symposium hosted by Erasmus University Rotterdam in Noordwijk, the Netherlands.</description>
+    </item>
+    
+  </channel>
+</rss>
