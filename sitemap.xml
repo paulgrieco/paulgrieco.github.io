@@ -5,17 +5,8 @@
     
     <url>
     
-      <loc>https://paulgrieco.github.io/publication/car-history/</loc>
-      <lastmod>2023-07-05T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://paulgrieco.github.io/publication/like-blp/</loc>
-      <lastmod>2023-05-25T00:00:00-04:00</lastmod>
+      <lastmod>2025-01-17T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -24,7 +15,16 @@
     <url>
     
       <loc>https://paulgrieco.github.io/publication/gen-bargaining/</loc>
-      <lastmod>2022-10-01T00:00:00-04:00</lastmod>
+      <lastmod>2024-09-01T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://paulgrieco.github.io/publication/car-history/</loc>
+      <lastmod>2024-05-05T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -278,7 +278,17 @@
     <url>
     
       <loc>https://paulgrieco.github.io/publication_types/3/</loc>
-      <lastmod>2023-07-05T00:00:00-04:00</lastmod>
+      <lastmod>2025-01-17T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://paulgrieco.github.io/publication_types/4/</loc>
+      <lastmod>2024-05-05T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

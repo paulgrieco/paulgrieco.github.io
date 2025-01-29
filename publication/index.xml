@@ -13,18 +13,9 @@
     
     
     <item>
-      <title>Evolution of Market Power in the US Auto Industry</title>
-      <link>https://paulgrieco.github.io/publication/car-history/</link>
-      <pubDate>Wed, 05 Jul 2023 00:00:00 -0400</pubDate>
-      
-      <guid>https://paulgrieco.github.io/publication/car-history/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conformant and Efficient Estimation of Discrete Choice Demand Models</title>
+      <title>Optimal Estimation of Discrete Choice Demand Models with Consumer and Product Data</title>
       <link>https://paulgrieco.github.io/publication/like-blp/</link>
-      <pubDate>Thu, 25 May 2023 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 -0500</pubDate>
       
       <guid>https://paulgrieco.github.io/publication/like-blp/</guid>
       <description></description>
@@ -33,9 +24,18 @@
     <item>
       <title>Bargaining on Behalf of Price-insensitive Downstream Consumers</title>
       <link>https://paulgrieco.github.io/publication/gen-bargaining/</link>
-      <pubDate>Sat, 01 Oct 2022 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 -0400</pubDate>
       
       <guid>https://paulgrieco.github.io/publication/gen-bargaining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of Market Power in the US Auto Industry</title>
+      <link>https://paulgrieco.github.io/publication/car-history/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 -0400</pubDate>
+      
+      <guid>https://paulgrieco.github.io/publication/car-history/</guid>
       <description></description>
     </item>
     
